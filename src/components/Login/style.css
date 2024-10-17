@@ -1,0 +1,11 @@
+.login-background {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhBjmqLYtafB1b8IVwIY5perSwFLCozQYSA&s");
+  background-size: cover;
+  background-position: center;
+  height: 400vh;
+}
+
+.card {
+  width: 750px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
